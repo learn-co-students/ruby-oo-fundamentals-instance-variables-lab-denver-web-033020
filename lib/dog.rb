@@ -7,5 +7,4 @@ end
 def name
     @this_dogs_name
   end
-  binding.pry
 end
